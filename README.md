@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dinithi Chethana Wijewardana</h1>
 <h3 align="center">Software enginnering student in IJSE</h3>
 
-- 🔭 I’m currently working on [MyPortFolio](https://github.com/WDinithi/MyPortFolio.git)
+- 🔭 I’m currently working on https://github.com/WDinithi/gem
 
-- 🌱 I’m currently learning **DP Education , JAVAScript**
+- 🌱 I’m currently learning **DP Education , javaEE**
 
 - 💬 Ask me about **JAVA / PYTHON / HTML / NETWROKING / CSS /**
 
